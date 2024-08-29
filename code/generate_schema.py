@@ -1,6 +1,5 @@
 import os
 import psycopg2
-import pandas as pd
 
 def generate_db_schema_md(output_file):
     # Get the connection string from the environment variable

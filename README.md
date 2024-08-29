@@ -15,12 +15,11 @@ This Python tool connects to a PostgreSQL database using a connection string pro
 - PostgreSQL database
 - The following Python packages:
   - `psycopg2`
-  - `pandas`
 
 You can install the required Python packages using pip:
 
 ```bash
-pip install psycopg2 pandas
+pip install psycopg2
 ```
 
 ## Getting Started
